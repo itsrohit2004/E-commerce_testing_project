@@ -21,6 +21,9 @@ Demo Web Shop
 * Functional Testing
 * Validation Testing
 * UI Testing
+* Usuability Testing
+* Negative Testing
+* End-End Testing
 
 ## Deliverables
 
@@ -32,9 +35,9 @@ Demo Web Shop
 ## Tools Used
 
 * Microsoft Excel
-* GitHub
 * Demo Web Shop
+* GitHub
 
 ## Project Outcome
 
-Performed end-to-end manual testing of a demo e-commerce application and documented defects, test cases, and execution results across multiple modules.
+Performed manual testing of a demo e-commerce website and documented defects, test cases, and execution results across multiple modules.
